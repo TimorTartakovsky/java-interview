@@ -1,4 +1,4 @@
-package com.fiixapp.repositories.base;
+package main.java.com.fiixapp.repositories.base;
 
 import com.fiixapp.data.UserDatabase;
 import com.fiixapp.models.UserModel;

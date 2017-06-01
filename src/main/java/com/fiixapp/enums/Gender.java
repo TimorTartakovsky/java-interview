@@ -1,4 +1,4 @@
-package com.fiixapp.enums;
+package main.java.com.fiixapp.enums;
 
 /**
  * Created by Matan on 21-May-17.

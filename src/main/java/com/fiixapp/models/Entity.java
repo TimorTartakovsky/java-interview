@@ -1,4 +1,4 @@
-package com.fiixapp.models;
+package main.java.com.fiixapp.models;
 
 /**
  * An entity is something with id

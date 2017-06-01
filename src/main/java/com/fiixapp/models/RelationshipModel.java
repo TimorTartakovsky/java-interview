@@ -1,4 +1,4 @@
-package com.fiixapp.models;
+package main.java.com.fiixapp.models;
 
 import com.fiixapp.enums.RelationshipType;
 

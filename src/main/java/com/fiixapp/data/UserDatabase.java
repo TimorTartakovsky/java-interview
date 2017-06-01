@@ -1,4 +1,4 @@
-package com.fiixapp.data;
+package main.java.com.fiixapp.data;
 
 import com.fiixapp.enums.Gender;
 import com.fiixapp.enums.Religion;
